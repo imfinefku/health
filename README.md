@@ -13,7 +13,7 @@
 
 ## 功能介绍
 
-<img src="./images/gn.jpg" width="650" height="450" />
+<img src="./images/gn.jpg" width="650" height="650" />
 
 ## 技术学习
 
